@@ -1,6 +1,6 @@
 # Tableau
 
-Some of my beautiful work i did!  
+One of the best Covid -19 dashboard and some amazing  types of maps !  
   
   
 
