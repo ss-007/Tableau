@@ -4,7 +4,7 @@ One of the best Covid -19 dashboard and some amazing  types of Maps !
   
   
 
-Link to below - https://drive.google.com/file/d/1Bo0dEbUvwe6BMPjzyNnRuC4zI8vfamXe/view?usp=sharing  
+Link to below dataset - https://drive.google.com/file/d/1Bo0dEbUvwe6BMPjzyNnRuC4zI8vfamXe/view?usp=sharing  
 .  
 .  
   
