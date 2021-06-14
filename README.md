@@ -1,6 +1,6 @@
 # Tableau
 
-One of the best Covid -19 dashboard and some amazing  types of Maps !  
+One of the best Covid -19 dashboard with stunning visuals and some amazing types of Maps !  
   
   
 
